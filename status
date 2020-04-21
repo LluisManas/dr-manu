@@ -1,0 +1,41 @@
+[33mcommit 12548e32f1a12761461476cdfcea45bd647b42e7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: LluisManas <manastorra@gmail.com>
+Date:   Tue Apr 21 16:19:51 2020 +0200
+
+    somethin
+
+[33mcommit e713614e6860799545ddb408ee64dd842dcec146[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Lluís Mañas <manastorra@gmail.com>
+Date:   Tue Apr 21 14:22:53 2020 +0200
+
+    third
+
+[33mcommit afe38e33cc7f059b330ee47bfcb5be7716f25d42[m
+Author: LluisManas <manastorra@gmail.com>
+Date:   Tue Apr 21 14:08:39 2020 +0200
+
+    second
+
+[33mcommit 2413956607fe862a7a0bc52ea5ca324d86944f1e[m[33m ([m[1;31mheroku/master[m[33m)[m
+Author: LluisManas <manastorra@gmail.com>
+Date:   Tue Apr 21 13:54:45 2020 +0200
+
+    initial
+
+[33mcommit 1f193c6cb23de26d841a71fd09378b2879b751cd[m
+Author: Lluís Mañas <manastorra@gmail.com>
+Date:   Tue Apr 21 13:31:24 2020 +0200
+
+    second commit
+
+[33mcommit 9dcc41564bf837f5e35f94a96daf5080e22f107d[m
+Author: LluisManas <manastorra@gmail.com>
+Date:   Tue Apr 21 12:56:00 2020 +0200
+
+    First commit
+
+[33mcommit 282813ca1f4982768f987141f01712ee0ec2b2ec[m
+Author: Lluís Mañas <manastorra@gmail.com>
+Date:   Fri Apr 17 16:11:04 2020 +0200
+
+    Initialize project using Create React App
